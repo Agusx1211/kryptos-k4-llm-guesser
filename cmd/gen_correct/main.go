@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	llm "github.com/agusx1211/k4-bruteforce"
+	llm "github.com/agusx1211/kryptos-k4-llm-guesser"
 )
 
 // Transform any two or more spaces into a single space
